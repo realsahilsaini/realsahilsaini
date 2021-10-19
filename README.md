@@ -7,8 +7,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Currently learning tech stack that are used in Blockchain, RPA, Data Science, AI/ML. To solve real world problems
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 Currently learning tech stack that are used in Blockchain, RPA, Data Science, AI/ML and many more
+- 👯 To solve real world problems
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a vocalist and sports enthusiast too 
 
