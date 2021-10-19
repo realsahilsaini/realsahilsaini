@@ -45,7 +45,7 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=realsahilsaini&show_icons=true&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=realsahilsaini&show_icons=true&theme=tokyonight&hide=stars)
 
 </details>
 
