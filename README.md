@@ -54,7 +54,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/realsahilsaini/github-readme-stats"><img alt="Sahil Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=realsahilsaini&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/realsahilsaini/github-readme-stats"><img alt="Sahil Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=realsahilsaini&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=stars" /></a>
 <!--   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sahil Saini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsahilsaini&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   -->
  
