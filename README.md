@@ -5,12 +5,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil</h1>
 <h3 align="center">I'm a Student, Developer, and Future-Technopreneur !!</h3>
 
+---
+
 ## 🙋‍♂️ About Me
 
 - 🌱 Currently learning tech stack that are used in Blockchain, RPA, Data Science, AI/ML and many more
 - 👯 To solve real world problems
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a vocalist and sports enthusiast too 
+
+---
 
 ### Languages and Tools:
 <p align='left'>
@@ -43,6 +47,8 @@
 <br />
 <br />
 
+---
+
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sahil Saini's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=realsahilsaini&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -50,6 +56,8 @@
 </p>
 
  <br/>
+
+---
 
 ## 📊 My Github Stats
 
@@ -61,6 +69,8 @@
  <br/>
    <br/>
 <br />
+
+---
 
 ## Connect with me:
 <p align="center">
