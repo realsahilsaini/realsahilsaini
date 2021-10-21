@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=realsahilsaini.realsahilsaini)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil</h1>
-<h3 align="center">I'm a Student, Developer, and Future-Technopreneur !!</h3>
+<h3 align="center">I'm a Student, Developer, and Aspiring-Technopreneur !!</h3>
 
 ---
 
