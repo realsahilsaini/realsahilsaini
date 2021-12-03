@@ -10,7 +10,7 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 Currently learning tech stack that are used in Blockchain, RPA, Data Science, AI/ML
-- 🧩 To solve real world problems
+- 🧩 Solving real world problems
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a vocalist and sports enthusiast too 
 
@@ -61,7 +61,7 @@
 
   <br/>
     <a href="https://github.com/realsahilsaini/github-readme-stats"><img alt="Sahil Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=realsahilsaini&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=stars" /></a>
-<!--   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sahil Saini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsahilsaini&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
   -->
  
  <br/>
