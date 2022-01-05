@@ -11,8 +11,8 @@
 
 - 🌱 Currently learning tech stack that are used in Blockchain, RPA, Data Science, AI/ML
 - 🧩 Solving real world problems
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm a vocalist and sports enthusiast too 
+- 🥅 2022 Goals: Contribute more to Open Source projects & become a Blockchain Developer
+- ⚡ Fun fact: I'm a vocalist and sports enthusiast too !
 
 ---
 
