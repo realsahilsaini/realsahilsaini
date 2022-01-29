@@ -82,16 +82,16 @@
 
 ---
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sahil Saini's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=realsahilsaini&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p> -->
+</p>
 
-<!-- ## 📊 My Github Stats
+## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/realsahilsaini/github-readme-stats"><img alt="Sahil Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=realsahilsaini&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=stars" /></a> -->
+    <a href="https://github.com/realsahilsaini/github-readme-stats"><img alt="Sahil Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=realsahilsaini&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=stars" /></a>
 
 
 ## Connect with me:
