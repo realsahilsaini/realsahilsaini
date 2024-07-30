@@ -9,16 +9,16 @@
 ---
 
 ### 🌌Areas of Interest:
-`Blockchain`  `AI` `Machine Learning` `Deep Learning` `Automation` `IoT` `Data Science`
+ `Full Stack` `Blockchain` `AI` 
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Currently learning tech stack that are used in Blockchain, RPA, Data Science, AI/ML
-- 🧩 Solving real world problems
-- 🥅 2022 Goals: Contribute more to Open Source projects & become a Blockchain Developer
-- ⚡ Fun fact: I'm a vocalist and sports enthusiast too !
+- 🌱 Currently learning tech stacks that are used in Blockchain, RPA, Data Science, AI/ML
+- 🧩 Solving real-world problems
+- 🥅 2024 Goals: Contribute more to Open Source projects & become a Blockchain Developer
+- ⚡ Fun fact: I'm a vocalist and sports enthusiast too!
 
 ---
 
