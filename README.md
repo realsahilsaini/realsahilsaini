@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Currently learning tech stacks that are used in Blockchain, RPA, Data Science, AI/ML
+- 🌱 Building cool stuff w/ Full Stack and Blockchain tech stack, while integrating AI.
 - 🧩 Solving real-world problems
 - 🥅 2024 Goals: Contribute more to Open Source projects & become a Blockchain Developer
 - ⚡ Fun fact: I'm a vocalist and sports enthusiast too!
